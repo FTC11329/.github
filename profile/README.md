@@ -1,6 +1,7 @@
 # FTC Team 11329 - ICE Robotics
 
 <p align="center">
+    <img src="../iceberg.jpeg">
     <img src="../robots.png">
 </p>
 
